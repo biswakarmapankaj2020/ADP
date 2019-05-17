@@ -1,0 +1,40 @@
+1. Write a query to get all employee details from the employee table sort by first name, descending
+
+2. Write a query to select first 10 records from a table.
+
+3. Write a query to get the names (first_name, last_name), salary, PF of all the employees (PF is calculated as 15% of salary)
+
+4. Write a query to display the name (first_name, last_name) and salary for all employees whose salary is not in the range $10,000 through $15,000 and are in department 30 or 100.
+
+5. Write a query to display the last name, job, and salary for all employees whose job is that of a Programmer or a Shipping Clerk, and whose salary is not equal to $4,500, $10,000, or $15,000.
+
+6. Write a query to find the name (first_name, last_name) and the salary of the employees who have a higher salary than the employee whose last_name='Bull'. 
+
+7. Write a query to find the name (first_name, last_name) of the employees who are managers.
+
+8. Write a query to find the name (first_name, last_name), and salary of the employees who earns more than the average salary and works in any of the IT departments.
+
+9. Write a query to find the name (first_name, last_name) and salary of the employees who earn a salary that is higher than the salary of all the Shipping Clerk (JOB_ID = 'SH_CLERK'). Sort the results of the salary of the lowest to highest.
+
+10. Write a query to list the department ID and name of all the departments where no employee is working.
+
+11. Write a query to find the name (first_name, last_name), job, department ID and name of the employees who works in London
+
+12. Write a query to find the employee id, name (last_name) along with their manager_id and name (last_name).
+
+13. Write a query to display the employee ID, first name, last name, salary of all employees whose salary is above average for their departments.
+
+14. Write a query to display the department name, manager name, and city.
+
+15. Write a query to display job title, employee name, and the difference between salary of the employee and minimum salary for the job.
+
+16. Write a query to display department name, name (first_name, last_name), hire date, salary of the manager for all managers whose experience is more than 15 years.
+
+17. Write a query to get the first name and hire date from employees table where hire date between '1987-06-01' and '1987-07-30' 
+
+18. Write a query to get the firstname, lastname who joined in the month of June.
+
+19. Write a query to get the years in which more than 10 employees joined.
+
+20. Write a query to get the first 3 characters of first name from employees table. 
+
